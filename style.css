@@ -1,6 +1,6 @@
 /* Estilo geral */
 body {
-  background-image:linear-gradient( #748162, #b7cf95,);
+  background-image:linear-gradient( #6dbae7, #278082,);
 }
 {
   font-family: Arial, sans-serif;
@@ -10,7 +10,7 @@ body {
   padding: 20px;
 }
  header {
-background-image:linear-gradient(#b7cf95, #748162);
+background-image:linear-gradient(#278082, #6dbae7);
 }
  h1, h2 {
   margin-top: 0;
