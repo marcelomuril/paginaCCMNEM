@@ -1,5 +1,6 @@
 /* Estilo geral */
-{
+{body 
+  
     font-family: Arial, sans-serif;
     margin: 0;
   }
@@ -53,7 +54,7 @@
   
   section {
     margin-bottom: 50px;
-    color: #fff;
+    color: #080808;
   }
   
   footer {
